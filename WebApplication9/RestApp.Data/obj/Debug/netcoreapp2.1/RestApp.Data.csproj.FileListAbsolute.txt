@@ -1,0 +1,12 @@
+C:\Users\ankur.pathak\source\repos\WebApplication9\RestApp.Data\bin\Debug\netcoreapp2.1\RestApp.Data.deps.json
+C:\Users\ankur.pathak\source\repos\WebApplication9\RestApp.Data\bin\Debug\netcoreapp2.1\RestApp.Data.dll
+C:\Users\ankur.pathak\source\repos\WebApplication9\RestApp.Data\bin\Debug\netcoreapp2.1\RestApp.Data.pdb
+C:\Users\ankur.pathak\source\repos\WebApplication9\RestApp.Data\bin\Debug\netcoreapp2.1\RestApp.Core.dll
+C:\Users\ankur.pathak\source\repos\WebApplication9\RestApp.Data\bin\Debug\netcoreapp2.1\RestApp.Core.pdb
+C:\Users\ankur.pathak\source\repos\WebApplication9\RestApp.Data\obj\Debug\netcoreapp2.1\RestApp.Data.csprojAssemblyReference.cache
+C:\Users\ankur.pathak\source\repos\WebApplication9\RestApp.Data\obj\Debug\netcoreapp2.1\RestApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\ankur.pathak\source\repos\WebApplication9\RestApp.Data\obj\Debug\netcoreapp2.1\RestApp.Data.AssemblyInfoInputs.cache
+C:\Users\ankur.pathak\source\repos\WebApplication9\RestApp.Data\obj\Debug\netcoreapp2.1\RestApp.Data.AssemblyInfo.cs
+C:\Users\ankur.pathak\source\repos\WebApplication9\RestApp.Data\obj\Debug\netcoreapp2.1\RestApp.Data.csproj.CopyComplete
+C:\Users\ankur.pathak\source\repos\WebApplication9\RestApp.Data\obj\Debug\netcoreapp2.1\RestApp.Data.dll
+C:\Users\ankur.pathak\source\repos\WebApplication9\RestApp.Data\obj\Debug\netcoreapp2.1\RestApp.Data.pdb
